@@ -1,13 +1,12 @@
-Experiment-6
+Divij Bhandari 
+25070123160
 
 Experiment 6 : Study of conditional Statement in python Naman Bothra 25070123078
 
 Aim : Study of conditional Statements in python
 
 Theory: Conditional statements in Python are used to make decisions in a program.
-
 They allow the program to execute different blocks of code based on conditions.
-
 Conditional statements help a program think and decide based on given conditions.
 
 if statement

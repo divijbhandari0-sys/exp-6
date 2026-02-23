@@ -1,7 +1,7 @@
 Divij Bhandari 
 25070123160
 
-Experiment 6 : Study of conditional Statement in python Naman Bothra 25070123078
+Experiment 6 : Study of conditional Statement in python 
 
 Aim : Study of conditional Statements in python
 
